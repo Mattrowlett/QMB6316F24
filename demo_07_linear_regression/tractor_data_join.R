@@ -47,7 +47,7 @@ setwd("~/GitHub/QMB6316F24/demo_07_linear_regression")
 # wd_path <- 'C:/Users/name/of/your/path'
 
 # Set the working directory to this path.
-setwd(wd_path)
+# setwd(wd_path)
 
 # Verify that the path was assigned correctly.
 getwd()

@@ -29,7 +29,7 @@ rm(list=ls(all=TRUE))
 
 
 # Set path for working directory.
-setwd("~/GitHub/QMB6316F24/demo_06_merging_data")
+setwd("~/QMB6316F24/demo_06_merging_data")
 
 
 
@@ -71,8 +71,6 @@ right_outer_merge
 
 # FULL OUTER JOIN
 
-full_outer_merge <- merge(Employees, Departments, all = TRUE)
-full_outer_merge
 
 
 
